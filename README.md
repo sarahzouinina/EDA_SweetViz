@@ -15,3 +15,6 @@ I used Jupyter Notebook to test the library.
 I loved the simplicity of usage of this library. I believe that Francois made a great work on the graphics generated it's a near complete exploration of all the statistical aspects of the data.
 NB: The library only works with float and boolean data.
 
+- The library generates an .html report (you'll find it in the docs).
+- I like the correlation graphic that shows whenyou click on associations.
+- I like that we can compare between the Train and the test sets.
