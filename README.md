@@ -19,7 +19,4 @@ NB: The library only works with float and boolean data.
 - I like the correlation graphic that shows whenyou click on associations.
 - I like that we can compare between the Train and the test sets.
 
-
-Try this markdown:
-
 ![alt text](https://github.com/sarahzouinina/EDA_SweetViz/blob/main/correlation.png)
