@@ -11,7 +11,7 @@ The dataset is related to the red wine variant of a Portuguese wine brand called
 
 I used Jupyter Notebook to test the library. 
 
-# My honest review:
+# My Review:
 I loved the simplicity of usage of this library. I believe that Francois made a great work on the graphics generated it's a near complete exploration of all the statistical aspects of the data.
 NB: The library only works with float and boolean data.
 
