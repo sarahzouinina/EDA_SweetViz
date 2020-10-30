@@ -18,3 +18,8 @@ NB: The library only works with float and boolean data.
 - The library generates an .html report (you'll find it in the docs).
 - I like the correlation graphic that shows whenyou click on associations.
 - I like that we can compare between the Train and the test sets.
+
+
+Try this markdown:
+
+![alt text](https://github.com/sarahzouinina/EDA_SweetViz/blob/main/correlation.png)
